@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1772091436772",
+    "email": "guest@tasknova.local",
+    "passwordHash": "$2a$10$vIyTj423n5oyS/XPNan3a.Miqja3n30qEGxj3uLf07RLk0Nl/wN2G",
+    "createdAt": "2026-02-26T07:37:16.967Z"
+  },
+  {
+    "id": "1772092342906",
+    "email": "agrawalvartika651@gmail.com",
+    "passwordHash": "$2a$10$UwHJcSV6/AIjqfAwbA/QHOv6bcbQZjd.m6TaFSZUBRr6j4DS1mFD6",
+    "createdAt": "2026-02-26T07:52:23.100Z"
+  },
+  {
+    "id": "1772260742164",
+    "email": "agrawalvartika@gmail.com",
+    "passwordHash": "$2a$10$MLEp/a3eo/QBPvRkOQj2Tew/NH3znUyQzChmPiveW5/qP2HTNKf9i",
+    "createdAt": "2026-02-28T06:39:02.537Z"
+  }
+]
